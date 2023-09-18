@@ -1,7 +1,7 @@
 import random
-import tkinter
+import tkinter 
+import tkinter as tk
 from tkinter.ttk import *
-from future.moves import tkinter as tk
 
 def pelaa(luku):
     global kierrosmäärä
